@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="159px" viewBox="0 0 159 159" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>top200</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1770.000000, -755.000000)">
+        <g id="top200" transform="translate(1770.000000, 755.000000)">
+            <circle id="Oval-6" fill="#D8D8D8" cx="79.5" cy="79.5" r="79.5"></circle>
+            <g id="Page-1" transform="translate(35.000000, 82.000000)" fill="#545454">
+                <path d="M66.262,0.758 C56.9456,0.758 48.883,6.1682 45,14 C41.1172,6.168 33.059,0.758 23.738,0.758 C10.644,0.758 2e-06,11.406 2e-06,24.496 C2e-06,37.59 10.648,48.234 23.738,48.234 C33.0544,48.234 41.117,42.8238 45,34.992 C48.8867,42.824 56.941,48.234 66.262,48.234 C79.356,48.234 90,37.586 90,24.496 C90,11.406 79.352,0.758 66.262,0.758 Z M23.739,42.238 C13.9578,42.238 6.001,34.281 6.001,24.5 C6.001,14.719 13.958,6.762 23.739,6.762 C33.52,6.762 41.477,14.719 41.477,24.5 C41.48091,34.2812 33.52,42.238 23.739,42.238 Z M64.102,33.6013 L53.571,23.0703 L56.9772,19.6641 L64.1022,26.8321 L75.5472,15.3911 L78.9495,18.7973 L64.102,33.6013 Z" id="Fill-1"></path>
+                <polygon id="Fill-2" points="30.934 13.918 23.7621 21.0899 16.6371 13.918 13.2309 17.3282 20.3559 24.5001 13.1411 31.6681 16.5473 35.0743 23.7621 27.8595 30.934 35.0743 34.3363 31.6681 27.1254 24.5001 34.3363 17.3282"></polygon>
+            </g>
+            <text id="200" font-family="ArialRoundedMTBold, Arial Rounded MT Bold" font-size="60" font-weight="normal" letter-spacing="-3.13599992" fill="#545454">
+                <tspan x="27" y="78">200</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
